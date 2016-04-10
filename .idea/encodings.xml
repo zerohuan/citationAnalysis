@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/anlysis/filter/BlankFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/anlysis/filter/DirtyCharFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/anlysis/filter/ReferenceCleanFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/anlysis/filter/ReferenceContextFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/anlysis/filter/ReferenceExtractFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/anlysis/filter/SymbolFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/anlysis/reference/ExtractReference.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/base/resource/DocumentReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/base/resource/MetaRule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/convert/Pdf2Txt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/citation/convert/PdfReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cnki/DownLoadPDF.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/exercise/dp/CombinationSum.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fetcher/RequesterBuilder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/util/StringUtil.java" charset="GBK" />
+  </component>
+</project>
