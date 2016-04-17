@@ -99,6 +99,16 @@
             <artifactId>pdfbox</artifactId>
             <version>1.8.10</version>
         </dependency>
+        <dependency>
+            <groupId>nz.ac.waikato.cms.weka</groupId>
+            <artifactId>weka-dev</artifactId>
+            <version>3.7.13</version>
+        </dependency>
+        <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>jna</artifactId>
+            <version>4.2.2</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -116,7 +126,7 @@
                     <finalName>test</finalName>
                     <archive>
                         <manifestEntries>
-                            <Premain-class>com.util.ClassUtils</Premain-class>
+                            <Premain-class>com.yjh.util.ClassUtils</Premain-class>
                             <Boot-Class-Path></Boot-Class-Path>
                             <Can-Redefine-Classes>false</Can-Redefine-Classes>
                         </manifestEntries>
